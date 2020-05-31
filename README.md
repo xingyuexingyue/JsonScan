@@ -159,6 +159,5 @@ com.alibaba.fastjson.JSONException: not close json text, token : :
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:683)
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:390)
 	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:197)
-2017-02-15 14:41:19,380 [Thread-3] INFO  [com.alibaba.druid.pool.DruidDataSource] - {dataSource-1} closed
 ```
 
